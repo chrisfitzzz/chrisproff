@@ -1,0 +1,76 @@
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="principal">
+        <h1>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.</h1>
+        <div>
+        <img id="combo" src="Combo.png" alt="combo Alura">
+
+        </div>
+        <div>
+            <img id="azul" src="Button.png" alt="botaoazul">
+        </div>
+        <div>
+            <img id="branco" src="Button (1).png" alt="botaobranco">
+        </div>
+
+        <div>
+             <img id="fundo" src="./Background.png" alt="background.png">
+        </div>
+    </section>
+
+    <section>
+        <div>
+               <img id="fundo" src="./Plataformas.png" alt="plataformas.png">
+
+        </div>
+        <div>
+                <img id="fundo" src="./Group 19.png" alt="group 19.png">
+
+
+        </div>
+    </section>
+
+    <section>
+        <div>
+
+            <img id="fundo" src="Group 25.png" alt="Group 25.png">
+
+
+        </div>
+        <div>
+
+            <img id="fundo" src="Telas.png" alt="telas.png">
+
+
+        </div>
+        <button></button>
+
+    </section>
+    ]
+    <section>
+        <div>
+
+            <img id="fundo" src="Notebook.png" alt="Notebook.png">
+
+        </div>
+        <div>
+
+            <img id="fundo" src="Group 22.png" alt="group 22.png">
+
+
+        </div>
+    </section>
+    <section>
+        <div></div>
+        <div></div>
+        <div></div>
+    </section>
+</body>
+</html>
