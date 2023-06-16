@@ -1,0 +1,27 @@
+:root {
+
+--branco-principal: #FFFFFF; 
+--cinza-secundario: #c0c0c0; 
+--botao-azul: #167BF7; 
+--cor-de-fundo: #00030c; 
+} 
+body{ 
+background-color: var(--cor-de-fundo); 
+color: var(--branco-principal);
+} 
+
+* { margin:0; padding:0; }
+
+#combo{
+
+}
+
+#azul:hover{
+transform: scale(1.05);
+transition: transform 100ms linear;
+}
+
+#branco:hover{
+transform: scale(1.05);
+transition: transform 100ms linear;
+}
