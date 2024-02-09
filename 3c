@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Document</title>
+</head>
+<body>
+ <div class="wrapper"> 
+    <div class="produtosimagem"> 
+        <img id="pizzas" src="pizza.jpg" height="340" width="460"> 
+    </div>
+
+    <div class="produtoinfo"> 
+        <div class="produtotexto"> <h1>pizzaria do chris</h1> 
+            <h2>esta com fome? peça aqui!</h2> 
+        <P>Pizza muito saborosa, grande variedade de sabores, entrega super rápida, bom atendimento e preço justo!</P> 
+            
+            <h2>peça a melhor pizza da região metropolitana</h2> 
+            <P>esta com duvidas? peça pelo delivery, ou chame no nosso whatsapp 419-8725-4704</P>
+
+            <h2>estamos com promoçãos hoje veja aqui</h2>
+            <img id="pizzas" src="delicia.png" height="340" width="460">
+            <img id="pizzas" src="cro.png" height="340" width="460">
+            <img id="pizzas" src="caro.png" height="340" width="460">
+ </body>
+</html>
